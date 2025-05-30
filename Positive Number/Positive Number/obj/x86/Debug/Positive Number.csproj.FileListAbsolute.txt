@@ -1,0 +1,4 @@
+D:\C#\Positive Number\Positive Number\bin\Debug\Positive Number.exe
+D:\C#\Positive Number\Positive Number\bin\Debug\Positive Number.pdb
+D:\C#\Positive Number\Positive Number\obj\x86\Debug\Positive Number.exe
+D:\C#\Positive Number\Positive Number\obj\x86\Debug\Positive Number.pdb
