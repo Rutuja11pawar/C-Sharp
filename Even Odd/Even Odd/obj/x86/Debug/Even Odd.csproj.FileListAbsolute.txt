@@ -1,0 +1,4 @@
+D:\C#\Even Odd\Even Odd\bin\Debug\Even Odd.exe
+D:\C#\Even Odd\Even Odd\bin\Debug\Even Odd.pdb
+D:\C#\Even Odd\Even Odd\obj\x86\Debug\Even Odd.exe
+D:\C#\Even Odd\Even Odd\obj\x86\Debug\Even Odd.pdb
