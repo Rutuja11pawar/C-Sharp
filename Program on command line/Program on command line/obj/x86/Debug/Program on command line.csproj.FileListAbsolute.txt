@@ -1,0 +1,4 @@
+D:\C#\Program on command line\Program on command line\bin\Debug\Program on command line.exe
+D:\C#\Program on command line\Program on command line\bin\Debug\Program on command line.pdb
+D:\C#\Program on command line\Program on command line\obj\x86\Debug\Program on command line.exe
+D:\C#\Program on command line\Program on command line\obj\x86\Debug\Program on command line.pdb
