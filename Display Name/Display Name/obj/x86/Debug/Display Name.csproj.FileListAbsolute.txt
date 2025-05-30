@@ -1,0 +1,4 @@
+D:\C#\Display Name\Display Name\bin\Debug\Display Name.exe
+D:\C#\Display Name\Display Name\bin\Debug\Display Name.pdb
+D:\C#\Display Name\Display Name\obj\x86\Debug\Display Name.exe
+D:\C#\Display Name\Display Name\obj\x86\Debug\Display Name.pdb
